@@ -1,0 +1,7 @@
+# Archivo: mlq_propio.txt
+# etiqueta; BT; AT; Q; Pr
+S1;8;0;3;2
+S2;3;3;3;5
+S3;5;0;1;1
+S4;4;6;1;5
+S5;9;0;2;3
